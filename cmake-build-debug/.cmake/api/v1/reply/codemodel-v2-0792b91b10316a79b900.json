@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BeginningCppProgramming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AccessModifiers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccessModifiers-Debug-131f9328df23b7fb0b7e.json",
+					"name" : "AccessModifiers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AccessingClassMembers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AccessingClassMembers-Debug-22cfc86f2e63910f2304.json",
+					"name" : "AccessingClassMembers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Account::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Account-Debug-1384af95271fb340f7d6.json",
+					"name" : "Account",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DeclareClassAndObjects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DeclareClassAndObjects-Debug-d4a00d003a356bc46bf1.json",
+					"name" : "DeclareClassAndObjects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DefaultConstructor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DefaultConstructor-Debug-774f01979c6d561c1358.json",
+					"name" : "DefaultConstructor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DefaultConstructorParameters::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DefaultConstructorParameters-Debug-443625b1516002963743.json",
+					"name" : "DefaultConstructorParameters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "constructInitializationList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constructInitializationList-Debug-583168ff1f967d3dc228.json",
+					"name" : "constructInitializationList",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Development/Projects_in_cplusplus/BeginningCpp/cmake-build-debug",
+		"source" : "C:/Development/Projects_in_cplusplus/BeginningCpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
